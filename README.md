@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kghor&show_icons=true&locale=en&layout=compact" alt="kghor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kghor&" alt="kghor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kghor&" alt="kghori" /></p>
