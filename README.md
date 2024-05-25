@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   my portfolio link:
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="   http://www.kartikghori.infinityfreeapp.com/">
    http://www.kartikghori.infinityfreeapp.com/
   </a>
 </p>
