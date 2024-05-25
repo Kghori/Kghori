@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   my portfolio link:
-  <a href="   http://www.kartikghori.infinityfreeapp.com/">
+  <a href="http://www.kartikghori.infinityfreeapp.com/">
    http://www.kartikghori.infinityfreeapp.com/
   </a>
 </p>
