@@ -3,8 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kghori&label=Profile%20views&color=0e75b6&style=flat" alt="kghori" />
-  <a href="https://twitter.com/" target="blank">
-    <img src="	https://c.tenor.com/2vXPlIhxIvgAAAAM/twitter-logo.gif" alt="Twitter" /></a>
+ 
 </p>
 
 <p align="center">
