@@ -1,101 +1,115 @@
-<h1 align="center">Hi 👋, I'm Ghori Kartik</h1>
-<h3 align="center">A dedicated software engineer with expertise in frontend and backend development</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kghori&label=Profile%20views&color=0e75b6&style=flat" alt="kghori" />
- 
-</p>
+```
+██╗  ██╗ █████╗ ██████╗ ████████╗██╗██╗  ██╗
+██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝
+█████╔╝ ███████║██████╔╝   ██║   ██║█████╔╝ 
+██╔═██╗ ██╔══██║██╔══██╗   ██║   ██║██╔═██╗ 
+██║  ██╗██║  ██║██║  ██║   ██║   ██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kghori" alt="kghori" />
-  </a>
-</p>
-<p align="center">
-  my portfolio link:
-  <a href="http://www.kartikghori.infinityfreeapp.com/">
-   http://www.kartikghori.infinityfreeapp.com/
-  </a>
-</p>
+### `Full Stack Developer` · `MCA Graduate` · `Builder of Things That Work`
 
-- 🔭 I’m currently working on [ebooksell1](https://github.com/Kghori/ebooksell1)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+products+from+idea+to+deployment;React+%7C+Node.js+%7C+Flutter+%7C+Firebase;Turning+requirements+into+running+systems;Open+to+interesting+problems" alt="Typing SVG" />
 
-- 📝 Check out my blog on C language [here](https://kg4765.blogspot.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghori-kartik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kghori)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](http://www.kartikghori.infinityfreeapp.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ghori7377)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ghorikartik3183)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ghori kartik" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/k_ghori9717" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@ghorikartik3183" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ghori7377" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/kartikr83m" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-</p>
+## About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kghori&show_icons=true&locale=en&layout=compact" alt="kghori" />
-</p>
+I'm a full stack developer currently working at **WRP Solution**, where I build real client products — not side projects. My work spans web apps, mobile apps, and workflow automation. I've shipped things like PWA trading platforms, mining dashboards, and e-commerce systems that handle actual transactions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kghori&show_icons=true&locale=en" alt="kghori" />
-</p>
+I care about writing code that's maintainable and systems that hold up under real use. I'm equally comfortable on the frontend (React, Flutter) and the backend (Node.js, PHP, Firebase), and I've worked across the full lifecycle from design to deployment.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kghori&" alt="kghori" />
-</p>
+I completed my MCA from the Department of Computer Science & Technology and hold a BCA from Shree Swaminarayan Gurukul Computer Science — both with Grade A.
+
+---
+
+## What I've Shipped
+
+### 💎 Diamond Billing System *(Android + Firebase)*
+Built for the diamond industry — a mobile app that handles employee salary calculations and payroll processing. Authentication, precise computation logic, and a UI designed for non-technical floor workers. Real users, real numbers.
+
+### 📚 Book Selling Website *(PHP + MySQL + Razorpay)*
+E-commerce platform with full payment integration. Admins can manage inventory, track orders, and manage accounts. Built without a framework — just clean PHP, SQL, and frontend fundamentals.
+
+### 🛒 E-Commerce Web App *(Node.js + Express + MongoDB)*
+Product catalogue, cart management, order tracking — the full cycle. Backend-first design with an admin panel for product management. Deployed and functional.
+
+---
+
+## Currently At — WRP Solution
+
+Shipping production projects:
+- **E-Logics** — custom business logic platform
+- **Basecamp Trading** — trading interface
+- **Moby** — Progressive Web App
+- **BCT Mining** — mining operations dashboard
+
+---
+
+## Tech Stack
+
+**Frontend**
+`React.js` `JavaScript` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `Flutter`
+
+**Backend**
+`Node.js` `Express.js` `NestJS` `PHP`
+
+**Databases**
+`MongoDB` `MySQL` `Firebase`
+
+**Tools & Workflow**
+`Git` `GitHub` `Postman` `VS Code` `N8N Workflow Automation` `RESTful APIs`
+
+**Languages**
+`Java` `JavaScript` `Dart` `Python` `C`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kghori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kghori&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kghori&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## One Thing That Stuck
+
+In college, I built a **Jigsaw Puzzle Game in Adobe Flash** for the CS & IT Exhibition. It won. More importantly, it taught me that software is always for someone — and making it enjoyable matters as much as making it work.
+
+---
+
+## Writing
+
+I occasionally write about things I'm working through:
+- **C Language deep dives** → [kg4765.blogspot.com](https://kg4765.blogspot.com/)
+- **Dev thoughts** → [Medium](https://medium.com/@ghorikartik3183)
+
+---
+
+<div align="center">
+
+`(+91) 9426758592` · `kartikghori19@gmail.com`
+
+*Open to freelance projects, collaborations, and interesting problems.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=kghori&color=00D9FF&style=flat-square&label=Profile+Views)
+
+</div>
