@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ghori-kartik">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="http://www.kartikghori.infinityfreeapp.com/">
+  <a href="[http://www.kartikghori.infinityfreeapp.com/](https://ghori.42web.io/)">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="mailto:kartikghori19@gmail.com">
