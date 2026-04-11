@@ -163,5 +163,5 @@ Built an interactive puzzle game for the CS & IT Exhibition. Won at the college 
 ---
 
 <p align="center">
-  <sub><b>kartikghori19@gmail.com</b> &nbsp;·&nbsp; <b>(+91) 9426758592</b> &nbsp;·&nbsp; <a href="http://www.kartikghori.infinityfreeapp.com/">Portfolio</a></sub>
+  <sub><b>kartikghori19@gmail.com</b> &nbsp;·&nbsp; <b>(+91) 9426758592</b> &nbsp;·&nbsp; <a href="https://kartik-dev.onrender.com/">Portfolio</a></sub>
 </p>
